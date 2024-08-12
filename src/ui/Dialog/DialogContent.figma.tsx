@@ -3,7 +3,7 @@ import figma from "@figma/code-connect";
 
 figma.connect(
   DialogContent,
-  "https://www.figma.com/file/rvQj59q5mJDxy4Z5HAAnMn?node-id=9215-9333",
+  "https://www.figma.com/design/rvQj59q5mJDxy4Z5HAAnMn/Config-Recap-DevMode-Demo?node-id=33-543&m=dev",
   {
     props: {
       headline: figma.string("Headline"),
