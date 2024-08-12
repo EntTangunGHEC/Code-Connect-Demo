@@ -1,0 +1,3 @@
+npx figma connect create "https://www.figma.com/design/rvQj59q5mJDxy4Z5HAAnMn/Config-Recap-DevMode-Demo?node-id=33-264&m=dev"
+
+npx figma connect publish
